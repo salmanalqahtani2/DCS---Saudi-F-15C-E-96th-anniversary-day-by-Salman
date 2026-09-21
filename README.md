@@ -25,4 +25,6 @@ Status
 
 WIP
 
+## Media
 
+![RSAF F-15E 96th National Day](Images/F-15E.png)
